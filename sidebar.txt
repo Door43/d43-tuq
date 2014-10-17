@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tuq:home|Door43 (tuq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tuq|d43-tuq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tuq/archive/master.zip|d43-tuq.zip]]
+
+**Recent Changes**
+{{changes>ns = tuq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tuq|Ethnologue data]]
+
